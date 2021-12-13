@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2019, v.4002-->
+<!DOCTYPE guidecard PUBLIC "-//LexisNexisPacific//DTD XML lexis clause Services ver 1.0//EN" "lci-norm.dtd">
+<?Pub UDT _bookmark _target?>
+<?Pub EntList bull hellip amp emsp ensp nbsp mldr nldr lsquo rsquo gt lt dagger mdash ndash para?>
+<guidecard id="PITS.IT">
+<?runhead left="Precedents — IP, IT, eCommerce and Media Suite"?>
+<?fascicle nextpg="12,501" servnumber="272" startpg="yes" textcont="false"?>
+<title>Precedents &mdash; IP, IT, eCommerce and Media &mdash; IT Bundle</title>
+<gc.front>
+<contents/></gc.front><prec.grp id="PITS.IT-prec.grp_1"><title>Precedents to Information Technology</title><prec currdate="201310" currinclude="all" currmonth="oct" currtype="review" curryear="2013" id="PITS.IT.P315-20"
+prec-author="G Hughes LLB (Hons) LLM (Melb) PhD (Mon)" prectype="prec-doc"><label>315.20</label><title>Equipment purchase agreement</title>
+<repro-tx boxed="n" pointsize="10" shading="none">
+<p><ptext>This precedent has been authored for LexisNexis by <auth.info>
+<author>
+<name>Dr. Gordon Hughes, </name>
+<position>Principal, </position>
+<affiliation>Davies Collison Cave Law</affiliation></author>
+<p><ptext>and</ptext></p>
+<author>
+<name>Anna Sharpe, </name>
+<position>Principal, </position>
+<affiliation>Sharpe Ivo.</affiliation></author>
+</auth.info> This precedent has been updated by<auth.info>
+<author>
+<name>Dr. Gordon Hughes, </name>
+<position>Principal, </position>
+<affiliation>Davies Collison Cave Law</affiliation></author>
+</auth.info>.</ptext></p>
+<p><ptext>This precedent is part of a LexisNexis suite of forms and precedents.</ptext></p>
+<p><ptext>This precedent is current to <emphasis type="bold">September 2018</emphasis>.</ptext></p>
+<intro.note>
+<title>Introductory note</title>
+<p><ptext>This agreement is used where there is a sale and purchase of hardware equipment.</ptext></p>
+<p><ptext>It is increasingly common for these types of agreements to be in a standard format, issued by the supplier, with a consequent restriction on the ability of the customer to engage in realistic negotiations (albeit with a risk that the supplier might in some circumstances contravene the unfair contract provisions of the Australian Consumer Law if the terms are unduly one-sided).</ptext></p>
+
+<title>Customer’s bargaining power</title>
+<p><ptext>Nevertheless, there will be situations in which a customer has sufficient bargaining power to negotiate the terms and ensure that the agreement is at least even-handed. </ptext></p>
+<p><ptext>Where a customer has the ability to negotiate, the clauses most likely to be the subject of discussion between the parties will involve the extent of the customer's responsibility 
+to prepare the site, milestone dates for delivery and (if relevant) installation, the nature of any acceptance testing to be carried out on the equipment prior to final payment, the extent of supplier warranties and the extent to which the supplier seeks to exclude or cap its liability.</ptext></p>
+</intro.note>
+<para.grp>
+<title>Equipment purchase agreement</title>
+<p><ptext>This agreement is made on [<emphasis type="ital">date</emphasis>]</ptext></p>
+<p><ptext>between</ptext></p>
+<party><party.name party-type="party-1"><p><ptext>[<emphasis>name of supplier</emphasis>] [<emphasis>optional</emphasis>: ([<emphasis>ACN/ABN</emphasis>] [<emphasis>number</emphasis>])] of [<emphasis>address</emphasis>] (<term>Supplier</term>)</ptext></p
+></party.name></party>
+<p><ptext>and</ptext></p>
+<party><party.name party-type="party-2"><p><ptext>[<emphasis>name of customer</emphasis>] [<emphasis>optional</emphasis>: ([<emphasis>ACN/ABN</emphasis>] [<emphasis>number</emphasis>])] of [<emphasis>address</emphasis>] (<term>Customer</term>).</ptext></p
+></party.name></party></para.grp>
+<para.grp>
+<title>BACKGROUND</title>
+<p>
+<list after="." type="uca">
+<li><ptext>A.	The Customer wishes to purchase computer equipment. </ptext></li>
+<li><ptext>B.	The Suppler will provide the Customer with computer equipment under the terms set out in this agreement.</ptext></li>
+</p>
+</para.grp>
+<para.grp>
+<title>OPERATIVE PROVISIONS</title>
+</para.grp>
+<clause id="PITS.IT.P315-20.1">
+<label>1</label>
+<title>Definitions and interpretation</title>
+<subclause id="PITS.IT.P315-20.1.1-1"><label>1.1</label><title>Definitions</title>
+<p><ptext><term>Commencement Date </term> means the date so specified in the schedule 1.</ptext></p>
+<p><ptext><term>Confidential Information </term> means information that is by its nature confidential but does not include:</ptext></p>
+<list after=")" before="(" type="lca">
+<li><ptext>(a)	information already known to the receiving party at the time of disclosure by the other party; or</ptext></li></p>
+<li><ptext>(b)	information in the public domain other than as a result of disclosure by a party in breach of its obligations of confidentiality under this agreement.</ptext></li>
+</list>
+<p><ptext><term>Configuration </term> means the grouping of components as specified in the schedule 1.</ptext></p>
+<p><ptext><term>Delivery </term>means the deposit by the Supplier of the Equipment at the Delivery Site.</ptext></p>
+<p><ptext><term>Delivery Date  </term>means the date specified for Delivery of the Equipment in the schedule 1.</ptext></p>
+<p><ptext><term> Delivery Site </term>means the site specified in the schedule 1 for the deposit of the Equipment on the Delivery Date.</ptext></p>
+<p><ptext><term>Equipment  </term>means the computer equipment specified in the schedule 1.</ptext></p>
+<p><ptext><term>GST </term>means:</ptext></p>
+<list after=")" before="(" type="lca">
+<li><ptext>(a)	the same as in the GST Law;</ptext></li></p>
+<li><ptext>(b)	any other goods and services tax, or any tax applying to this agreement in a similar way; and</ptext></li>
+<li><ptext>(c)	any additional tax, penalty tax, fine, interest or other charge under a law of such a tax.	</ptext></li>
+</list>
+<p><ptext><term>GST Law </term>means the same as "GST law" in A New Tax System (Goods and Services Tax) Act 1999 (Cth).</ptext></p>
+<p><ptext><term>Installation </term>means the installation of the Equipment at the Installation Site.</ptext></p>
+<p><ptext><term>Installation Date  </term>means the date specified in the schedule 1 for Installation of the Equipment.</ptext></p>
+<p><ptext><term>Installation Site  </termmeans >the site specified in the schedule 1 where the Installation of the Equipment is to be effected. </ptext></p>
+<p><ptext><term>Price </term>means the installation of the Equipment at the Installation Site.</ptext></p>
+
+</subclause>
+</clause>
+<title>1.2	Interpretation</title>
+<p><ptext>Words importing the singular include the plural and vice versa and words importing
+ one gender will include all other genders. Headings are for ease of reference only and will not affect the interpretation of this agreement.</ptext></p>
+
+
+
+</para.grp>
+<clause id="PITS.IT.P315-20.1">
+<label>1</label>
+<title>Definitions and interpretation</title>
+<subclause id="PITS.IT.P315-20.1.1-1"><label>1.1</label><title>Definitions</title>
+<p><ptext><term>Commencement Date </term> means the date so specified in the schedule 1.</ptext></p>
+<p><ptext><term>Confidential Information </term> means information that is by its nature confidential but does not include:</ptext></p>
+<list after=")" before="(" type="lca">
+<li><ptext>(a)	information already known to the receiving party at the time of disclosure by the other party; or</ptext></li></p>
+<li><ptext>(b)	information in the public domain other than as a result of disclosure by a party in breach of its obligations of confidentiality under this agreement.</ptext></li>
+</list>
+
+
+
+
+
+
+
+
+
+
+
+<rx.p emphasis="none" justify="full" line-spacing="single"><rx.text>[<emphasis>This agreement is used where there is a sale and purchase of hardware equipment.</emphasis></rx.text></rx.p>
+<rx.p emphasis="none" justify="full" line-spacing="single"><rx.text> 	    <emphasis>It is increasingly common for these types of agreements to be in a standard format, issued by the supplier, with a consequent restriction on the ability of the customer
+to engage in realistic negotiations. </emphasis> 	  </rx.text></rx.p>
+<rx.p emphasis="none" justify="full" line-spacing="single"><rx.text> 	    <emphasis>Nevertheless there will be situations in which a customer has sufficient bargaining power to negotiate the terms and ensure that the agreement is at least even-handed. </emphasis
+> 	  </rx.text></rx.p>
+<rx.p emphasis="none" justify="full" line-spacing="single"><rx.text><emphasis>Where a customer has the ability to negotiate, the clauses most likely to be the subject of discussion between the parties will involve the extent of the customer&apos;s responsibility
+to prepare the site; milestone dates for delivery; and (if relevant) installation, the nature of any acceptance testing to be carried out on the equipment prior to final payment, the extent of supplier warranties and the extent to which the supplier
+seeks to exclude or cap its liability.</emphasis>]</rx.text></rx.p><?Pub Caret 137?>
+</repro-tx>
+<p>
+<graphic externalfile="true" halign="center" include="onlinecd" orient="portrait" pages="9" src="v07-315-20.doc" valign="middle"/>
+<graphic externalfile="false" halign="center" include="all" orient="portrait" pages="9" src="v07-315-20.doc" valign="middle"/></p>
+</prec></prec.grp></guidecard>

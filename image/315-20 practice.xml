@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2019, v.4002-->
+<!DOCTYPE guidecard PUBLIC "-//LexisNexisPacific//DTD XML lexis clause Services ver 1.0//EN" "lci-norm.dtd">
+<?Pub UDT _bookmark _target?>
+<?Pub EntList bull hellip amp emsp ensp nbsp mldr nldr lsquo rsquo gt lt dagger mdash ndash para?>
+<guidecard id="PITS.IT">
+<?runhead left="Precedents — IP, IT, eCommerce and Media Suite"?>
+<?fascicle nextpg="12,501" servnumber="272" startpg="yes" textcont="false"?>
+<title>Precedents &mdash; IP, IT, eCommerce and Media &mdash; IT Bundle</title>
+<gc.front>
+<contents/></gc.front><prec.grp id="PITS.IT-prec.grp_1"><title>Precedents to Information Technology</title><prec currdate="201310" currinclude="all" currmonth="oct" currtype="review" curryear="2013" id="PITS.IT.P315-20"
+prec-author="G Hughes LLB (Hons) LLM (Melb) PhD (Mon)" prectype="prec-doc"><label>315.20</label><title>Equipment purchase agreement</title>
+<repro-tx boxed="n" pointsize="10" shading="none">
+<p><ptext>This precedent has been authored for LexisNexis by <auth.info>
+<author>
+<name>Dr. Gordon Hughes, </name>
+<position>Principal, </position>
+<affiliation>Davies Collison Cave Law</affiliation></author>
+<p><ptext>and</ptext></p>
+<author>
+<name>Anna Sharpe, </name>
+<position>Principal, </position>
+<affiliation>Sharpe Ivo.</affiliation></author>
+</auth.info> This precedent has been updated by<auth.info>
+<author>
+<name>Dr. Gordon Hughes, </name>
+<position>Principal, </position>
+<affiliation>Davies Collison Cave Law</affiliation></author>
+</auth.info>.</ptext></p>
+<p><ptext>This precedent is part of a LexisNexis suite of forms and precedents.</ptext></p>
+<p><ptext>This precedent is current to <emphasis type="bold">September 2018</emphasis>.</ptext></p>
+<intro.note>
+<title>Introductory note</title>
+<p><ptext>This agreement is used where there is a sale and purchase of hardware equipment.</ptext></p>
+<p><ptext>It is increasingly common for these types of agreements to be in a standard format, issued by the supplier, with a consequent restriction on the ability of the customer to engage in realistic negotiations (albeit with a risk that the supplier might in some circumstances contravene the unfair contract provisions of the Australian Consumer Law if the terms are unduly one-sided).</ptext></p>
+
+<title>Customer’s bargaining power</title>
+<p><ptext>Nevertheless, there will be situations in which a customer has sufficient bargaining power to negotiate the terms and ensure that the agreement is at least even-handed. </ptext></p>
+<p><ptext>Where a customer has the ability to negotiate, the clauses most likely to be the subject of discussion between the parties will involve the extent of the customer's responsibility 
+to prepare the site, milestone dates for delivery and (if relevant) installation, the nature of any acceptance testing to be carried out on the equipment prior to final payment, the extent of supplier warranties and the extent to which the supplier seeks to exclude or cap its liability.</ptext></p>
+</intro.note>
+<para.grp>
+<title>Equipment purchase agreement</title>
+<p><ptext>This agreement is made on [<emphasis type="ital">date</emphasis>]</ptext></p>
+<p><ptext>between</ptext></p>
+<party><party.name party-type="party-1"><p><ptext>[<emphasis>name of supplier</emphasis>] [<emphasis>optional</emphasis>: ([<emphasis>ACN/ABN</emphasis>] [<emphasis>number</emphasis>])] of [<emphasis>address</emphasis>] (<term>Supplier</term>)</ptext></p
+></party.name></party>
+<p><ptext>and</ptext></p>
+<party><party.name party-type="party-2"><p><ptext>[<emphasis>name of customer</emphasis>] [<emphasis>optional</emphasis>: ([<emphasis>ACN/ABN</emphasis>] [<emphasis>number</emphasis>])] of [<emphasis>address</emphasis>] (<term>Customer</term>).</ptext></p
+></party.name></party></para.grp>
+<para.grp>
+<title>BACKGROUND</title>
+<p>
+<list after="." type="uca">
+<li><ptext>A.	The Customer wishes to purchase computer equipment. </ptext></li>
+<li><ptext>B.	The Suppler will provide the Customer with computer equipment under the terms set out in this agreement.</ptext></li>
+</p>
+</para.grp>
+<para.grp>
+<title>OPERATIVE PROVISIONS</title>
+</para.grp>
+<clause id="PITS.IT.P315-20.1">
+<label>1</label>
+<title>Definitions and interpretation</title>
+<subclause id="PITS.IT.P315-20.1.1-1"><label>1.1</label><title>Definitions</title>
+<p><ptext><term>Commencement Date </term> means the date so specified in the schedule 1.</ptext></p>
+<p><ptext><term>Confidential Information </term> means information that is by its nature confidential but does not include:</ptext></p>
+<list after=")" before="(" type="lca">
+<li><ptext>(a)	information already known to the receiving party at the time of disclosure by the other party; or</ptext></li></p>
+<li><ptext>(b)	information in the public domain other than as a result of disclosure by a party in breach of its obligations of confidentiality under this agreement.</ptext></li>
+</list>
+<p><ptext><term>Configuration </term> means the grouping of components as specified in the schedule 1.</ptext></p>
+<p><ptext><term>Delivery </term>means the deposit by the Supplier of the Equipment at the Delivery Site.</ptext></p>
+<p><ptext><term>Delivery Date  </term>means the date specified for Delivery of the Equipment in the schedule 1.</ptext></p>
+<p><ptext><term> Delivery Site </term>means the site specified in the schedule 1 for the deposit of the Equipment on the Delivery Date.</ptext></p>
+<p><ptext><term>Equipment  </term>means the computer equipment specified in the schedule 1.</ptext></p>
+<p><ptext><term>GST </term>means:</ptext></p>
+<list after=")" before="(" type="uca">
+<li><ptext>(a)	the same as in the GST Law;</ptext></li></p>
+<li><ptext>(b)	any other goods and services tax, or any tax applying to this agreement in a similar way; and</ptext></li>
+<li><ptext>(c)	any additional tax, penalty tax, fine, interest or other charge under a law of such a tax.	</ptext></li>
+</list>
+<p><ptext><term>GST Law </term>means the same as "GST law" in A New Tax System (Goods and Services Tax) Act 1999 (Cth).</ptext></p>
+<p><ptext><term>Installation </term>means the installation of the Equipment at the Installation Site.</ptext></p>
+<p><ptext><term>Installation Date  </term>means the date specified in the schedule 1 for Installation of the Equipment.</ptext></p>
+<p><ptext><term>Installation Site  </termmeans >the site specified in the schedule 1 where the Installation of the Equipment is to be effected. </ptext></p>
+<p><ptext><term>Price </term>means the installation of the Equipment at the Installation Site.</ptext></p>
+</subclause>
+</clause>
+</para.grp>
+<clause id="PITS.IT.P315-20.1.2">
+<label> 1.2	</label><title>	Interpretation</title>
+<p><ptext>Words importing the singular include the plural and vice versa and words importing one gender will include all other genders.
+ Headings are for ease of reference only and will not affect the interpretation of this agreement.</ptext></p>
+<subclause id="PITS.IT.P315-20.2">
+<label>2</label><title>Site preparation</title><list after=")" before="(" type="uca">
+<li><ptext>(a)	The Customer will prepare the Delivery Site in accordance with the specifications contained in the schedule 1 or otherwise at the direction of the Supplier.</ptext></li>
+<li><ptext>(b)	The Supplier may refuse to deliver the Equipment if the Delivery Site has not been prepared in accordance with the preceding paragraph.</ptext></li>
+<li><ptext>(c)	The Customer will fully indemnify the Supplier for direct or indirect costs arising out of a delay caused by the circumstances described in the preceding paragraph,
+ save that the Supplier will be deemed to have approved the site if it does not carry out an inspection of the site prior to Delivery of the Equipment.</ptext></li>
+</list>
+</p>
+</clause>
+
+<clause id="PITS.IT.P315-20.3">
+<label>3</label><title>	Delivery</title><list after=")" before="(" type="uca">
+<li><ptext>(a)	The Supplier will deliver the Equipment on the date or during the period specified in the schedule 1 as the Delivery Date.</ptext></li>
+<li><ptext>(b)	Delivery will be effected at the Installation Site specified in the schedule 1.</ptext></li>
+<li><ptext>(c)	If Delivery is delayed for a period in excess of [number] days from the Delivery Date, the Supplier will fully indemnify the Customer for any costs, direct or indirect, arising out of the delay in Delivery.</ptext></li>
+<li><ptext>(d)	If Delivery has not been effected after [number] days from the specified Delivery Date, the Customer may at its option extend the time for Delivery or treat the failure to deliver as a Terminating Event.</ptext></li>
+<li><ptext>(e)	If the Customer is unable to accept Delivery on the Delivery Date, it will fully indemnify the Supplier for direct or indirect costs incurred by the subsequent delay in Delivery. If the Customer's 
+inability or refusal to accept Delivery extends for a period in excess of [number] days beyond the Delivery Date, the Supplier will have the option of treating the non-delivery as a Terminating Event.</ptext></li>
+</list>
+</p>
+</clause>
+
+<clause id="PITS.IT.P315-20.4">
+<label>4</label><title>	Installation</title><list after=")" before="(" type="uca">
+<li><ptext>(a)	The Supplier will install the Equipment at the Installation Site.</ptext></li>
+<li><ptext>(b)	Installation will be completed by the Installation Date specified in the schedule 1.</ptext></li>
+<li><ptext>(c)	The Customer will provide the Supplier with all reasonable assistance and access to facilities to enable the Supplier to comply with its obligations under this clause.</ptext></li>
+</list>
+</p>
+</clause>
+
+<clause id="PITS.IT.P315-20.5">
+<label>5</label><title>	Acceptance testing</title><list after=")" before="(" type="uca">
+<li><ptext>	Upon completion of Installation, the Supplier will test the Equipment and ensure its operation conforms with the specifications described in the schedule 1.</ptext></li>
+<li><ptext>	The Supplier will ensure that the Equipment conforms with the operating specifications referred to in clause 5(a) within [number] days of Installation.</ptext></li>
+<li><ptext>	If the Equipment fails to conform with the operating specifications within the period prescribed in clause 5(b) the Customer will grant the Supplier a further period of [number] days in which to rectify the defect.</ptext></li>
+<li><ptext>	If, after the period prescribed in clause 5(c), the Equipment still does not satisfy the operating specifications the Customer may at its option extend the test period or treat the failure to satisfy the specifications as a Terminating Event.</ptext></li>
+<li><ptext>	The Equipment will be deemed to be accepted if it satisfies the test specifications during any of the periods referred to in clauses 5(b), 5(c) and 5(d).</ptext></li>
+</list>
+</p>
+</clause>
+
+
+<clause id="PITS.IT.P315-20.6">
+<label>6</label><title>	Training</title><list after=")" before="(" type="uca">
+<li><ptext>	The Supplier will provide the Customer with training in the use of the Equipment.</ptext></li>
+<li><ptext>	The training referred to in clause 6(a) will be extended to such number of personnel specified in the schedule 1 
+and will take place at the location specified in the schedule 1, for the minimum number of hours specified in the schedule 1 and within the period of time following Installation as nominated by the schedule 1.</ptext></li>
+</list>
+</p>
+</clause>
+
+
+<clause id="PITS.IT.P315-20.7">
+<label>7</label><title>	The Equipment</title>
+<p><ptext>The Equipment will conform to the description, operating specifications and Configuration prescribed in the schedule 1. 
+No substitution or modification will be made without the written consent of the Customer.</ptext></p>
+</clause>
+
+<clause id="PITS.IT.P315-20.8">
+<label>8</label><title>	Operating manual</title>
+<p><ptext>The Supplier will provide the Customer with a copy of the operating manual specified in the schedule 1. The Supplier warrants that the operating manual will be adequate for the purpose of enabling the Customer to operate the Equipment in a manner reasonably contemplated by the parties.</ptext></p>
+</clause>
+
+<clause id="PITS.IT.P315-20.9">
+<label>9</label><title>Price</title><list after=")" before="(" type="uca">
+<li><ptext>	The Customer will pay to the Supplier the Price specified in the schedule 1.</ptext></li>
+<li><ptext>	The Customer will pay the Supplier [percentage]% of the Price upon the execution of this agreement, [percentage]% of the Price upon Delivery of the Equipment and the balance upon the completion of acceptance testing.</ptext></li>
+<li><ptext>	The Price is exclusive of all taxes, duties or surcharges relevant to this agreement or to the Equipment, its Delivery or Installation.</ptext></li>
+<li><ptext>	Payment of each installment will be made within [number] days of the due date. If payment is not made in accordance with this clause, the Supplier may charge interest at a rate of [percentage]%. If payment is not made within [number] days of the due date, the Supplier may grant a further extension of time for payment or, at its option, treat the failure to pay as a Terminating Event.</ptext></li>
+<li><ptext>	If the Customer disputes the whole or any part of the amount claimed in an invoice submitted by the Supplier pursuant to this agreement, the Customer will pay the undisputed portion on the due date. The dispute regarding the remainder may be referred to the dispute resolution procedure prescribed by this agreement. If it is subsequently resolved that a further amount is payable, the Customer will pay that amount together with interest at the rate of [percentage]% per annum.</ptext></li>
+<li><ptext>	Words defined in the GST Law have the same meaning in this clause, unless the context makes it clear that a different meaning is intended.</ptext></li>
+<li><ptext>	In addition to paying the Price and any other amount payable </ptext></li>
+<list after=")" before="(" type="lcr">
+<li><ptext>	pay to the Supplier an amount equal to any GST payable from any supply by the Supplier in respect of which the Price or any other amount is payable under this agreement; and</ptext></li>
+<li><ptext>	make such payment either on the date when the Price or other amounts to which it relates is due or within [number] days after the customer is issued with a tax invoice, whichever is the later.</ptext></li>
+</list>
+<li><ptext>	The Supplier must, within [number] days of request from the Customer, issue a tax invoice (or an adjustment note) to the Customer for any supply under or in connection with this agreement.</ptext></li>
+<li><ptext>	The Supplier will promptly create an adjustment note for (and apply to the Commissioner of Taxation for) a refund, and refund to the Customer, any overpayment by the Customer for GST but the Supplier need not refund to the Customer any amount for GST paid to the Commissioner of Taxation unless the Supplier has received a refund or credit for that amount.</ptext></li>
+</list>
+</p>
+</clause>
+
+<clause id="PITS.IT.P315-20.10">
+<label>10</label><title>Title</title><list after=")" before="(" type="uca">
+<li><ptext>	Title in the Equipment will pass to the Customer upon payment of the balance of the purchase Price.</ptext></li>
+<li><ptext>	The Customer acknowledges that the Supplier may register a financing statement in relation to its security interest in the Equipment.</ptext></li>
+<li><ptext>	The Customer waives its right under section 157 of the Personal Property Securities Act 2009 (Cth) to receive notice of any verification statement relating to the registration of any such financing statement or any related financing change statement.</ptext></li>
+<li><ptext>	The Customer undertakes, if it disposes of any collateral (being the Equipment, proceeds and any other product or mass that the Equipment may be or become part of), that it will receive proceeds at least equal to the market value of the collateral, and that it will not allow any other security interest to exist over those proceeds if that security interest could rank ahead of the Supplier's security interest. If such a security interest does arise despite the previous sentence, the Customer must ensure that it receives cash proceeds for the collateral at least equal to the market value of the collateral and must immediately pay those proceeds to the Supplier in reduction of the amount owing.</ptext></li>
+<li><ptext>	The Supplier can apply amounts it receives from the Customer towards amounts owing to it in such order as the Supplier chooses.	</ptext></li>
+<li><ptext>	If the Customer defaults in the timely performance of any obligation owed to the Supplier, the Supplier may repossess the collateral and otherwise enforce its security interest in the collateral. The Supplier, for that purpose, may enter any premises occupied by the Customer and remove the collateral, including by detaching the Equipment from any other products to which they may be attached, or by detaching Equipment from any land to which they may be fixed.	</ptext></li>
+<li><ptext>		To the extent that chapter 4 of the Personal Property Securities Act would otherwise apply to an enforcement by the Supplier of its security interest in the collateral, the parties agree that the following provisions of the Personal Property Securities Act do not apply, to the extent the Personal Property Securities Act allows them to be excluded:</ptext></li>
+<list after=")" before="(" type="lcr">
+<li><ptext>	enforcement methods) sections 125 (Obligation to dispose of or retain collateral), 129(2) and (3) (Disposal by purchase), 134(2) (Proposal of secured party to retain collateral) and 137 (Persons entitled to notice may object to proposal);</ptext></li>
+<li><ptext>	notices) sections 130 (Notice of disposal of collateral), 132 (Secured party to give statement of account), and 135 (Notice of retention of collateral) and 136(5) (Retaining collateral free of interests); and</ptext></li>
+<li><ptext>	rights to remedy) sections 142 (Entitled persons may redeem collateral) and 143 (Entitled persons may reinstate security agreement).	</ptext></li>
+</list>
+<li><ptext>	The Customer must promptly do anything the Supplier requires to ensure that its security interest is a perfected security interest and has priority over all other security interests.</ptext></li>
+<li><ptext> Nothing in this clause is limited by any other provision of any other agreement between the Supplier and the Customer. Nothing in this clause limits the Supplier's rights or the Customer's obligations apart from under this clause.</ptext></li>
+<li><ptext>	This clause survives the termination of any contract into which these conditions are incorporated.</ptext></li>
+</list>
+</p>
+</clause>
+
+<clause id="PITS.IT.P315-20.11">
+<label>11</label><title>Risk</title>
+<p><ptext>Risk of loss or damage to the Equipment will pass to the Customer upon Delivery.</ptext></p>
+</clause>
+
+<clause id="PITS.IT.P315-20.12">
+<label>12</label><title>Warranties</title><list after=")" before="(" type="uca">
+<li><ptext>	The Supplier warrants that the Equipment is newly manufactured and is free of any defects in materials and workmanship.</ptext></li>
+<li><ptext>	The Supplier will rectify, at its own expense, any defect in the Equipment which is notified by the Customer within a period of [number] days after acceptance and which defect renders the Equipment unsuitable for the ordinary use contemplated by the Customer.</ptext></li>
+<li><ptext>	The Supplier warrants that any replacement parts provided to the Customer pursuant to clause 12(b) are newly manufactured and are free from defects in materials and workmanship. If the replacement parts are found to be defective during a period of 90 days after Installation of those parts, they will be rectified or replaced at the Supplier's expense.	</ptext></li>
+<li><ptext>	The Supplier will not be liable for defects resulting from improper use of the Equipment, whether by the Customer or by a third party.</ptext></li>
+</list>
+</p>
+</clause>
+
+<clause id="PITS.IT.P315-20.13">
+<label>13</label><title>Termination</title><list after=")" before="(" type="uca">
+<li><ptext>	For the purpose of this clause, each of the following is a <emphasis type="bold">Terminating Event:</emphasis></ptext></li>
+<list after=")" before="(" type="lcr">
+<li><ptext>	the breach or threatened breach by either party of any of its material obligations under this agreement;</ptext></li>
+<li><ptext>	the appointment of any type of insolvency administrator in respect of the property or affairs of either party [<emphasis type="ital">drafting note: sections 415D, 434J, 451E of the Corporations Act prevent a party from enforcing an "ipso facto clause", such as this, during a "stay period". The operation of the "stay period" affects what would otherwise be a right to terminate the contract if the company enters administration, is wound up in insolvency or a manager controller is appointed. The stay period will usually end only if the company exits administration or if the compromise or arrangement period ends, otherwise it will continue until the liquidation has been completed. The clause itself is not void but cannot be enforced during the period in question.</emphasis>];	</ptext></li>
+<li><ptext> the entry or proposed entry by either party into any scheme, composition or arrangement with any of its creditors;</ptext></li>
+<li><ptext>	the merger with or the takeover of either party by another person; and</ptext></li>
+<li><ptext>	any event described in this agreement as a Terminating Event.</ptext></li>
+</list>
+<li><ptext>(b)	Subject to clause 13(c), this agreement may be terminated immediately upon the happening of a Terminating Event at the option of the affected party.</ptext></li>
+<li><ptext>(c)	If the Terminating Event is one specified in clauses 13(a)(i) – 13(a)(v), the affected party must give to the other party notice of the happening of that event and require the breach to be remedied or a written undertaking to be given that the breach will not occur, as the case may be. If the breach is not remedied or the undertaking not given (as the case may be) within [number] days, the affected party may agree to waive or suspend its rights under this clause at its sole discretion.</ptext></li>
+<li><ptext>(d)	Neither party will be liable for the consequences of an occurrence of any event beyond its reasonable control.</ptext></li>
+<li><ptext>(e)	Nothing in this clause affects the right of the terminating party to pursue any other remedy available to it at law arising out of the Terminating Event, subject where applicable to any cap on, or exclusion of, liability set out in this agreement.</ptext></li>
+</list>
+</p>
+</clause>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<rx.p emphasis="none" justify="full" line-spacing="single"><rx.text>[<emphasis>This agreement is used where there is a sale and purchase of hardware equipment.</emphasis></rx.text></rx.p>
+<rx.p emphasis="none" justify="full" line-spacing="single"><rx.text> 	    <emphasis>It is increasingly common for these types of agreements to be in a standard format, issued by the supplier, with a consequent restriction on the ability of the customer
+to engage in realistic negotiations. </emphasis> 	  </rx.text></rx.p>
+<rx.p emphasis="none" justify="full" line-spacing="single"><rx.text> 	    <emphasis>Nevertheless there will be situations in which a customer has sufficient bargaining power to negotiate the terms and ensure that the agreement is at least even-handed. </emphasis
+> 	  </rx.text></rx.p>
+<rx.p emphasis="none" justify="full" line-spacing="single"><rx.text><emphasis>Where a customer has the ability to negotiate, the clauses most likely to be the subject of discussion between the parties will involve the extent of the customer&apos;s responsibility
+to prepare the site; milestone dates for delivery; and (if relevant) installation, the nature of any acceptance testing to be carried out on the equipment prior to final payment, the extent of supplier warranties and the extent to which the supplier
+seeks to exclude or cap its liability.</emphasis>]</rx.text></rx.p><?Pub Caret 137?>
+</repro-tx>
+<p>
+<graphic externalfile="true" halign="center" include="onlinecd" orient="portrait" pages="9" src="v07-315-20.doc" valign="middle"/>
+<graphic externalfile="false" halign="center" include="all" orient="portrait" pages="9" src="v07-315-20.doc" valign="middle"/></p>
+</prec></prec.grp></guidecard>

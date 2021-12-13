@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2019, v.4002-->
+<!DOCTYPE guidecard PUBLIC "-//LexisNexisPacific//DTD XML lexis clause Services ver 1.0//EN" "lci-norm.dtd">
+<?Pub UDT _bookmark _target?>
+<?Pub EntList bull hellip amp emsp ensp nbsp mldr nldr lsquo rsquo gt lt dagger mdash ndash para?>
+<?Pub Inc?>
+<guidecard id="PITS.IT">
+<?runhead left="Precedents — IP, IT, eCommerce and Media Suite"?>
+<?fascicle nextpg="12,501" servnumber="272" startpg="yes" textcont="false"?>
+<title>Precedents &mdash; IP, IT, eCommerce and Media &mdash; IT Bundle</title>
+<gc.front>
+<contents/></gc.front><prec.grp id="PITS.Igrp_1T-prec."><title>Precedents to Information Technology</title><prec currdate="201310" currinclude="all" currmonth="oct" currtype="review" curryear="2013" id="PITS.IT.P315-32"
+prec-author="G Hughes LLB (Hons) LLM (Melb) PhD (Mon)" prectype="prec-doc"><label>315.32</label><title>Software integration agreement</title>
+<p><ptext>This precedent has been authored for LexisNexis by <auth.info>
+<author>
+<name>Dr. Gordon Hughes, </name>
+<position>Principal, </position>
+<affiliation>Davies Collison Cave Law</affiliation></author>
+<p><ptext>and</ptext></p>
+<author>
+<name>Anna Sharpe, </name>
+<position>Principal, </position>
+<affiliation>Sharpe Ivo.</affiliation></author>
+</auth.info> This precedent has been updated by<auth.info>
+<author>
+<name>Dr. Gordon Hughes, </name>
+<position>Principal, </position>
+<affiliation>Davies Collison Cave Law</affiliation></author>
+</auth.info>.</ptext></p>
+<p><ptext>This precedent is part of a LexisNexis suite of forms and precedents.</ptext></p>
+<p><ptext>This precedent is current to <emphasis type="bold">September 2018</emphasis>.</ptext></p>
+<intro.note>
+<title>Introductory note</title>
+<p><ptext>Under this agreement, the supplier (typically, the proprietor of software) agrees to integrate its software with third party software in order to form a working solution for the customer.</ptext></p>
+<p><ptext>Conceptually, the agreement is similar to a systems integration agreement, the difference being that whereas a systems integration agreement contemplates a combination of hardware and software, a software integration agreement contemplates
+a combination of different software products only.</ptext></p>
+<p><ptext>Typically, clauses which will come under scrutiny during negotiation include the terms of any third party licenses, the authority of the integrator to access, install and modify a third party&apos;s software, milestone dates and milestone payments
+and the supplier&apos;s overall warranty that the various software components will work together so as to meet the customer&apos;s expectations.</ptext></p>
+</intro.note>
+<para.grp>
+<title>Software integration agreement</title>
+<p><ptext>This agreement is made on [<emphasis type="ital">date</emphasis>]</ptext></p>
+<p><ptext>between</ptext></p>
+<party><party.name party-type="party-1"><p><ptext>[<emphasis>name of supplier</emphasis>] [<emphasis>optional</emphasis>: ([<emphasis>ACN/ABN</emphasis>] [<emphasis>number</emphasis>])] of [<emphasis>address</emphasis>] (<term>Supplier</term>)</ptext></p
+></party.name></party>
+<p><ptext>and</ptext></p>
+<party><party.name party-type="party-2"><p><ptext>[<emphasis>name of customer</emphasis>] [<emphasis>optional</emphasis>: ([<emphasis>ACN/ABN</emphasis>] [<emphasis>number</emphasis>])] of [<emphasis>address</emphasis>] (<term>Customer</term>).</ptext></p
+></party.name></party></para.grp>
+<para.grp>
+<title>BACKGROUND</title>
+<p>
+<list after="." type="uca">
+<li><ptext>The Customer needs software for the purpose of [<emphasis>insert</emphasis>].</ptext></li>
+<li><ptext>The Supplier is a software developer.</ptext></li>
+<li><ptext>The Supplier will supply and install a software solution for the Customer, including bespoke software, under the terms of this agreement.</ptext></li>
+</list>
+</p>
+</para.grp>
+<para.grp>
+<title>OPERATIVE PROVISIONS</title>
+</para.grp>
+<clause id="PITS.IT.P315-32.1">
+<label>1</label>
+<title>Definitions and interpretation</title>
+<subclause id="PITS.IT.P315-32.1.1-1"><label>1.1</label><title>Definitions</title>
+<p><ptext><term>Acceptance Criteria</term> are defined in schedule 6.</ptext></p>
+<p><ptext><term>Acceptance Date</term> means the date upon which the Customer accepts or is deemed to accept the Solution.</ptext></p>
+<p><ptext><term>Acceptance Tests</term> means the tests described in schedule 6 together with any Supplementary Tests conducted in accordance with this agreement.</ptext></p>
+<p><ptext><term>Commencement Date</term> means the date specified in schedule 1.</ptext></p>
+<p><ptext><term>Confidential Information</term> means information that is by its nature confidential but does not include:</ptext>
+<list after=")" before="(" type="lca">
+<li><ptext>information already known to the receiving party at the time of disclosure by the other party; or</ptext></li>
+<li><ptext>information in the public domain other than as a result of disclosure by a party in breach of its obligations of confidentiality under this agreement.</ptext></li>
+</list>
+</p>
+</subclause>
+</clause>
+<clause id="PITS.IT.P315-32.2">
+<label>2</label>
+<title>Development of Solution</title>
+<subclause id="PITS.IT.P315-32.2..A"><label>(a)</label><lp.txt>The Supplier will, in accordance with the Specifications and the Project Plan:</lp.txt><subclause id="PITS.IT.P315-32.2..A.I"><label>(i)</label><lp.txt>develop, integrate and install the
+Developed Software;</lp.txt></subclause>
+<subclause id="PITS.IT.P315-32.2..A.II"><label>(ii)</label><lp.txt>supply, integrate and install the Proprietary Software; and</lp.txt></subclause>
+<subclause id="PITS.IT.P315-32.2..A.III"><label>(iii)</label><lp.txt>procure, integrate and install the Third Party Software.</lp.txt></subclause>
+</subclause>
+<subclause id="PITS.IT.P315-32.2..B"><label>(b)</label><lp.txt>The Supplier will license the Proprietary Software to the Customer on the terms set out in schedule 3.</lp.txt></subclause>
+<subclause id="PITS.IT.P315-32.2..C"><label>(c)</label><lp.txt>The Supplier will procure a licence for the Customer of the Third Party Software on the terms set out in the attachments to schedule 4.</lp.txt></subclause>
+</clause>
+<clause id="PITS.IT.P315-32.13">
+<label>13</label>
+<title>Liability</title>
+<p><ptext>Except in relation to liability for personal injury (including sickness and death), property damage or an infringement of confidentiality or Intellectual Property Rights, and subject to any non-excludable statutory liability, the liability
+of the Supplier for damages in respect of any act or omission of the Supplier in connection with its obligations under this agreement will not exceed the amount (if any) specified in schedule 1, even if the Supplier has been advised by the Customer as
+to the possibility of such losses being incurred.</ptext></p>
+<draft.note>
+<p><ptext>[<emphasis>Drafting note: liability under section 18 of the Australian Consumer Law (Misleading or deceptive conduct), for example, cannot be limited or excluded.</emphasis>]</ptext></p>
+</draft.note></clause><?Pub Caret -3?>
+</prec></prec.grp></guidecard>

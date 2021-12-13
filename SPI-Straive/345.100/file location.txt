@@ -1,0 +1,98 @@
+Y:\EdProc\LN-Tr2\Precedents Work\PITSL
+
+Y:\EdProc\LN-Tr2\AziL\Precedents\Trainees\input
+
+https://signin.lexisnexis.com/lnaccess/app/signin?back=https%3A%2F%2Fadvance.lexis.com%3A443%2Fau&aci=au
+
+ https://mysecurecitrix-apac.relx.com/
+
+ https://lngsydappp132.corp.regn.net/LNAEdSys/index.html
+
+
+
+
+<prec id="PITS.ME.P345-100"><label>345.100</label><title>Distribution agreement (online and electronic formats)</title>
+<p><ptext>This precedent has been authored for LexisNexis by<auth.info>
+<author>
+<name>Dr. Morris Averill, </name>
+<position>Solicitor, </position>
+<affiliation>Averill Media Legal Services.</affiliation></author>
+</auth.info></ptext></p>
+</prec>
+
+<p>
+<list after=")" before="(" type="lca">
+<li><ptext>any action or omission outside a party&rsquo;s reasonable control, by which the party relying on the event is prevented from or delayed in performing its obligations;</ptext></li>
+<li><ptext>any outbreak or escalation of hostilities (whether or not war has been declared) or any other unlawful act against public order or authority;</ptext></li>
+<li><ptext>any industrial dispute; and</ptext></li>
+<li><ptext>any governmental restraint.</ptext></li>
+</list>
+</p>
+
+NZFP-GC-27-PREC-27-407-COPYRIGHT
+
+NZFP-GC-27-PREC-27-305-DESIGNS
+
+<p>
+<list after="." type="num">
+<li><ptext>	I am the [<emphasis>state office/position held</emphasis>] of the applicant company [<emphasis>full name of applicant</emphasis>] (<emphasis type="bold">Applicant</emphasis>). I have been the [<emphasis>repeat office/position held</emphasis
+>] for the Applicant since [<emphasis>date</emphasis>].</ptext></li>
+<li><ptext>	My responsibilities at [<emphasis>name of applicant company</emphasis>] include [<emphasis>briefly describe responsibilities</emphasis>].</ptext></li>
+<li><ptext>	I am duly authorized to make this declaration on behalf of the Applicant in support of this application.</ptext></li>
+<li><ptext>	I am aware of the facts set out in this declaration either from my own knowledge or from reference to the records of the Applicant.</ptext></li>
+<li><ptext>	Information declared in this declaration comes from: [<emphasis>briefly list sources e.g. the official website, my own personal knowledge and beliefs, and/or as otherwise indicated herein</emphasis>].</ptext><para.grp><title> <emphasis
+type="bold">[</emphasis><emphasis type="bi">Optional: </emphasis><emphasis type="bold">CONFIDENTIALITY</emphasis></title></para.grp></li>
+<li><ptext>	The facts set out in this declaration are confidential, and it will be prejudicial to the interests of the applicant to disclose them. Accordingly, such information is exempt from release under any application under the Official Information
+Act 1982.]</ptext><para.grp><title><emphasis type="bold">APPLICATION DETAILS</emphasis></title></para.grp></li>
+<li><ptext>7.	I make this declaration in support of New Zealand trade mark application [<emphasis>trade mark number[s] and trade mark</emphasis>] filed on [<emphasis>date</emphasis>7.	I make this declaration in support of New Zealand trade mark application
+[trade mark number[s] and trade mark] filed on [date] (Application). Brief details of the Application are set out below.] (<emphasis type="bold">Application</emphasis>). Brief details of the Application are set out below.</ptext><p><table frame="none">
+<tgroup cols="3">
+<colspec colname="col1" colwidth="10*"/>
+<colspec colname="col2" colwidth="40*"/>
+<colspec colname="col3" colwidth="50*"/><spanspec nameend="col3" namest="col2" spanname="span1"/>
+<tbody>
+<row>
+<entry colsep="0"></entry>
+<entry colsep="0">New Zealand application(s):</entry>
+<entry>[<emphasis>trade mark number(s)</emphasis>]</entry>
+</row>
+<row>
+<entry colsep="0"></entry>
+<entry colsep="0">Trade mark:</entry>
+<entry>[<emphasis>trade mark(s)</emphasis>] (<emphasis type="bold">Trade Mark</emphasis>)</entry>
+</row>
+<row>
+<entry colsep="0"></entry>
+<entry colsep="0">Class(s):</entry>
+<entry>[<emphasis>class number(s)</emphasis>]</entry>
+</row>
+<row>
+<entry colsep="0"></entry>
+<entry colsep="0">Goods and Services:</entry>
+<entry>[<emphasis>insert application specification</emphasis>] <emphasis type="bold">([</emphasis><emphasis type="bi">Option 1:</emphasis> <emphasis type="bold">Goods] [</emphasis><emphasis type="bi">Option </emphasis>  </entry>
+</row>
+<row>
+<entry colsep="0"></entry>
+<entry colsep="0"><emphasis type="bi">2:</emphasis><emphasis type="bold">Services] [</emphasis><emphasis>Option 3:</emphasis><emphasis type="bold">Goods and Services])</emphasis></entry>
+<entry></entry>
+</row>
+<row>
+<entry colsep="0"></entry>
+<entry align="left" colsep="1" spanname="span1"></entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+<p><ptext><term>OVERVIEW</term></ptext></p>
+</li>
+<li><ptext>The Trade Mark was first used in New Zealand for [<emphasis>Option 1: Goods</emphasis>] [<emphasis>Option 2: Services</emphasis>] [<emphasis>Option 3:</emphasis> Goods and Services] on (or about) [date], by (or on behalf of) the Applicant. </ptext>
+</li>
+</list>
+</p>
+
+
+
+NZFP-GC-27-PREC-27-012-TRADEMARKS
+
+
+NZFP-GC-27-PREC-27-113-PLANT-VARIETY-RIGHTS-1
